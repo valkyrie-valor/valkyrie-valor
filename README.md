@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**valkyrie-valor/valkyrie-valor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```csharp
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, World! 👋 ");
+    }
+}
+```
 
-Here are some ideas to get you started:
+> "Intelligence is the ability to adapt to change." - Stephen Hawking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# About Me 👨‍💻
+
+* Based in Austria (Upper Austria) 🇦🇹
+* Former software engineering student 👨‍💻💻
+* Technical Lead [AUDIS](https://audis.at/), Software Architect at @softawaregmbh ⌨️
+* Interested in .NET, Azure, Angular, Docker, App Development and more 📚☕️
+* MARVEL Nerd, Metal and NFL fan. Go Hawks! 📖🤘🏈
+
+> [Visit me](https://linktr.ee/chriga)
+
+
+# Future Plans and Learning Goals 🚀
+
+* Google Native Android Kotlin Tutorials 📱
+* Flutter Development 🦋
+* Azure Certification ☁️
+* Home Barista Training ☕️
+* Microsoft MVP 🏅
+* Google Android Dev Certification 📜
+
+
+# Contact
+
+> 📧 [chriga.development@proton.me](mailto:christoph.gattermayr@proton.me) or 
+📧 [christoph.gattermayr@softaware.at](mailto:christoph.gattermayr@softaware.at)
+
+
