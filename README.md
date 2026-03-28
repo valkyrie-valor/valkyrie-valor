@@ -35,7 +35,7 @@ class Program
 
 # Contact
 
-> 📧 [chriga.development@proton.me](mailto:christoph.gattermayr@proton.me) or 
-📧 [christoph.gattermayr@softaware.at](mailto:christoph.gattermayr@softaware.at)
+> 📧 [mailto:christoph.gattermayr@proton.me](mailto:christoph.gattermayr@proton.me)
+> [Work Profile](https://github.com/chriga-arch): 
 
 
